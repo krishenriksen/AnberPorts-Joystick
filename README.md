@@ -62,6 +62,8 @@ right_analog_left = mouse_movement_left
 right_analog_right = mouse_movement_right
 ```
 
-## Support the project
+### Support the project
 
-[<img src="https://github.com/krishenriksen/AnberPorts/raw/master/patreon.png"/>](https://www.patreon.com/bePatron?u=54003740) [<img src="https://github.com/krishenriksen/AnberPorts/raw/master/sponsor.png"/>](https://github.com/sponsors/krishenriksen)
+[![Donate](https://github.com/krishenriksen/AnberPorts/raw/master/donate.png)](https://www.paypal.me/krishenriksendk)
+[![Patreon](https://github.com/krishenriksen/AnberPorts/raw/master/patreon.png)](https://www.patreon.com/bePatron?u=54003740)
+[![Sponsor](https://github.com/krishenriksen/AnberPorts/raw/master/sponsor.png)](https://github.com/sponsors/krishenriksen)
