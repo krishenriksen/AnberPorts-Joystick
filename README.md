@@ -20,7 +20,6 @@ gamecontrollerdb.txt, this file can be edited to suit any game port if not able 
 
 `Blood example:`
 ```
-# quit
 back = esc
 start = enter
 a = enter
